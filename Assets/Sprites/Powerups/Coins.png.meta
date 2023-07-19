@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 623a430a58d7509489249ab2de4babb2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coins_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 505
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68844348107cc408802b423b49ddec
+      internalID: 1346851007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 505
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13f71d4d7780c4eb42b4496ca53bac
+      internalID: -88459150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 505
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483aa2f92aeecdc4e84ccefce64b8305
+      internalID: 2137925182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 505
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac38277456f8122438029787ea895fb9
+      internalID: -2114622666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 505
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cedf7b3fe41c84b8c9414bdafc2fa7
+      internalID: 1313526942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 505
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ee89c9f3c1e24f97449b88dedea40
+      internalID: 2104886770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Coins_0: 1346851007
+      Coins_1: -88459150
+      Coins_10: 294369316
+      Coins_11: -2108545337
+      Coins_12: -1661773625
+      Coins_13: 1179641941
+      Coins_14: 1517698156
+      Coins_15: -376511740
+      Coins_16: 2011287257
+      Coins_17: -1388779185
+      Coins_18: 1257352687
+      Coins_19: -1147162500
+      Coins_2: 2137925182
+      Coins_20: -1081372303
+      Coins_21: -1206821479
+      Coins_22: -882831272
+      Coins_23: -1909941613
+      Coins_24: 621332038
+      Coins_25: -1750359842
+      Coins_26: -826275218
+      Coins_27: 111298081
+      Coins_28: -1985856228
+      Coins_29: 2033321559
+      Coins_3: -2114622666
+      Coins_30: -1014682040
+      Coins_31: -32858283
+      Coins_32: -258484282
+      Coins_33: -181858447
+      Coins_34: 935897261
+      Coins_35: 2058043530
+      Coins_36: -1722954944
+      Coins_37: 1987687924
+      Coins_38: 1532117528
+      Coins_39: -472687908
+      Coins_4: 1313526942
+      Coins_40: -2132661361
+      Coins_41: 1280891360
+      Coins_42: -591995994
+      Coins_43: 1757158673
+      Coins_44: -2007207084
+      Coins_45: -2007056314
+      Coins_46: -1528050539
+      Coins_47: 36119150
+      Coins_48: -1410515835
+      Coins_49: 582617270
+      Coins_5: 2104886770
+      Coins_50: 1080385074
+      Coins_51: 382213176
+      Coins_52: -696825339
+      Coins_53: -1249129992
+      Coins_54: -2103626338
+      Coins_55: 239061701
+      Coins_56: 1536230178
+      Coins_57: 276523294
+      Coins_58: -1430759951
+      Coins_59: -2068784302
+      Coins_6: 1285956812
+      Coins_60: 23349584
+      Coins_61: -1964586276
+      Coins_62: 447585341
+      Coins_63: -1079118930
+      Coins_64: -1199815684
+      Coins_65: -735395331
+      Coins_66: -766720278
+      Coins_67: 2138387649
+      Coins_68: 831375138
+      Coins_69: -872575251
+      Coins_7: -437237236
+      Coins_70: 1548535011
+      Coins_71: 842107090
+      Coins_72: 1926008320
+      Coins_73: -227714685
+      Coins_74: 1403007035
+      Coins_75: 1933613894
+      Coins_76: -1509390378
+      Coins_77: -791447704
+      Coins_78: -575638080
+      Coins_79: -940654623
+      Coins_8: -1648455574
+      Coins_80: -1342509482
+      Coins_81: -1642757367
+      Coins_82: 1125437437
+      Coins_83: -747625782
+      Coins_84: -723122398
+      Coins_85: 1022244414
+      Coins_86: 870360810
+      Coins_87: -425330043
+      Coins_88: -116006305
+      Coins_89: 1379443757
+      Coins_9: -57685907
+      Coins_90: -1503186116
+      Coins_91: -1134438740
+      Coins_92: 749998245
+      Coins_93: -1173502451
+      Coins_94: -454779744
+      Coins_95: -1679904854
+      Coins_96: 1428268529
+      Coins_97: 484880924
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
