@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Finish : MonoBehaviour
 {
@@ -16,9 +15,8 @@ public class Finish : MonoBehaviour
         {
             if (levelManager.Finish())
             {
-                SceneManager.LoadScene(1);
+                GameInterface.Instance.ShowWinPanel();
             }
-            Debug.Log("Finish");
         }
     }
 }

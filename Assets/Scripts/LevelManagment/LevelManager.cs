@@ -1,23 +1,34 @@
-using UnityEngine.SceneManagement;
+using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
     [SerializeField] private SceneController sceneController;
     [SerializeField, Range(0, 3000f)] private float scoreToFinish;
+    [SerializeField] private TMP_Text scoreText;
 
-    [SerializeField] private float score;
-    
+    private float score;
+
+    private float Score
+    {
+        get => score;
+        set
+        {
+            score = value;
+            scoreText.text = value.ToString();
+        }
+    }
 
     private void Start()
     {
-        score = 0;
+        Score = 0;
         Debug.Log(PlayerPrefs.GetFloat(SceneManager.GetActiveScene().name, 0));
     }
 
     public void AddScore(float amount)
     {
-        score += amount;
+        Score += amount;
     }
 
     public bool Finish()
